@@ -1,0 +1,7 @@
+﻿cl : befehlszeile warning D9025: "/sdl" wird durch "/GS-" überschrieben
+  Main.cpp
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 401 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  WehhPaste.vcxproj -> C:\Users\11C\Desktop\InternalPaste\x64\Release\WehhPaste.dll
